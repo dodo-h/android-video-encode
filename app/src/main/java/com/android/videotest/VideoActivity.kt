@@ -10,7 +10,7 @@ import com.android.ffmpegproject.VideoRecorder
 
 /**
  *
- * Author：hdd
+ * Author：dodo
  * Date：2020/4/24
  * Description：
  *
